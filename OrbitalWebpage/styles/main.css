@@ -1,0 +1,20 @@
+
+.blueBG{
+	background: blue;
+}
+
+.redBG{
+	background: red;
+}
+
+.showOnHover{
+	display: none;
+}
+
+.panel:hover .showOnHover{
+	display: inline-block;
+}
+
+.postbtn{
+	padding: 8px 0px 0px 0px;
+}
